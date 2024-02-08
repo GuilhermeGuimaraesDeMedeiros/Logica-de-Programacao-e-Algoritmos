@@ -1,0 +1,15 @@
+C:\Projetos\BEE1002\BEE1002\bin\Debug\net7.0\BEE1002.exe
+C:\Projetos\BEE1002\BEE1002\bin\Debug\net7.0\BEE1002.deps.json
+C:\Projetos\BEE1002\BEE1002\bin\Debug\net7.0\BEE1002.runtimeconfig.json
+C:\Projetos\BEE1002\BEE1002\bin\Debug\net7.0\BEE1002.dll
+C:\Projetos\BEE1002\BEE1002\bin\Debug\net7.0\BEE1002.pdb
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.csproj.AssemblyReference.cache
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.AssemblyInfoInputs.cache
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.AssemblyInfo.cs
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.csproj.CoreCompileInputs.cache
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.dll
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\refint\BEE1002.dll
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.pdb
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\BEE1002.genruntimeconfig.cache
+C:\Projetos\BEE1002\BEE1002\obj\Debug\net7.0\ref\BEE1002.dll

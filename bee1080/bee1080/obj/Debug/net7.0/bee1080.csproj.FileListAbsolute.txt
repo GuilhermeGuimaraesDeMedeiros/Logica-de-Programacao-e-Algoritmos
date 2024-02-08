@@ -1,0 +1,15 @@
+C:\Projetos\bee1080\bee1080\bin\Debug\net7.0\bee1080.exe
+C:\Projetos\bee1080\bee1080\bin\Debug\net7.0\bee1080.deps.json
+C:\Projetos\bee1080\bee1080\bin\Debug\net7.0\bee1080.runtimeconfig.json
+C:\Projetos\bee1080\bee1080\bin\Debug\net7.0\bee1080.dll
+C:\Projetos\bee1080\bee1080\bin\Debug\net7.0\bee1080.pdb
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.csproj.AssemblyReference.cache
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.AssemblyInfoInputs.cache
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.AssemblyInfo.cs
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.csproj.CoreCompileInputs.cache
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.dll
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\refint\bee1080.dll
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.pdb
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\bee1080.genruntimeconfig.cache
+C:\Projetos\bee1080\bee1080\obj\Debug\net7.0\ref\bee1080.dll

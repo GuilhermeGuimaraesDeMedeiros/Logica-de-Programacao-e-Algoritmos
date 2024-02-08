@@ -1,0 +1,15 @@
+C:\Projetos\aula63\aula63\bin\Debug\net7.0\aula63.exe
+C:\Projetos\aula63\aula63\bin\Debug\net7.0\aula63.deps.json
+C:\Projetos\aula63\aula63\bin\Debug\net7.0\aula63.runtimeconfig.json
+C:\Projetos\aula63\aula63\bin\Debug\net7.0\aula63.dll
+C:\Projetos\aula63\aula63\bin\Debug\net7.0\aula63.pdb
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.csproj.AssemblyReference.cache
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.AssemblyInfoInputs.cache
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.AssemblyInfo.cs
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.csproj.CoreCompileInputs.cache
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.dll
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\refint\aula63.dll
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.pdb
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\aula63.genruntimeconfig.cache
+C:\Projetos\aula63\aula63\obj\Debug\net7.0\ref\aula63.dll

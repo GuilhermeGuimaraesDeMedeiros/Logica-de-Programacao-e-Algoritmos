@@ -1,0 +1,15 @@
+C:\Projetos\aula61Exerc05\aula61Exerc05\bin\Debug\net7.0\aula61Exerc05.exe
+C:\Projetos\aula61Exerc05\aula61Exerc05\bin\Debug\net7.0\aula61Exerc05.deps.json
+C:\Projetos\aula61Exerc05\aula61Exerc05\bin\Debug\net7.0\aula61Exerc05.runtimeconfig.json
+C:\Projetos\aula61Exerc05\aula61Exerc05\bin\Debug\net7.0\aula61Exerc05.dll
+C:\Projetos\aula61Exerc05\aula61Exerc05\bin\Debug\net7.0\aula61Exerc05.pdb
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.csproj.AssemblyReference.cache
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.AssemblyInfoInputs.cache
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.AssemblyInfo.cs
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.csproj.CoreCompileInputs.cache
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.dll
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\refint\aula61Exerc05.dll
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.pdb
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\aula61Exerc05.genruntimeconfig.cache
+C:\Projetos\aula61Exerc05\aula61Exerc05\obj\Debug\net7.0\ref\aula61Exerc05.dll

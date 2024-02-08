@@ -1,0 +1,15 @@
+C:\Projetos\ExercicioAula35\ExercicioAula35\bin\Debug\net7.0\ExercicioAula35.exe
+C:\Projetos\ExercicioAula35\ExercicioAula35\bin\Debug\net7.0\ExercicioAula35.deps.json
+C:\Projetos\ExercicioAula35\ExercicioAula35\bin\Debug\net7.0\ExercicioAula35.runtimeconfig.json
+C:\Projetos\ExercicioAula35\ExercicioAula35\bin\Debug\net7.0\ExercicioAula35.dll
+C:\Projetos\ExercicioAula35\ExercicioAula35\bin\Debug\net7.0\ExercicioAula35.pdb
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.csproj.AssemblyReference.cache
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.AssemblyInfoInputs.cache
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.AssemblyInfo.cs
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.csproj.CoreCompileInputs.cache
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.dll
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\refint\ExercicioAula35.dll
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.pdb
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ExercicioAula35.genruntimeconfig.cache
+C:\Projetos\ExercicioAula35\ExercicioAula35\obj\Debug\net7.0\ref\ExercicioAula35.dll

@@ -1,0 +1,15 @@
+C:\Projetos\BEE1036\BEE1036\bin\Debug\net7.0\BEE1036.exe
+C:\Projetos\BEE1036\BEE1036\bin\Debug\net7.0\BEE1036.deps.json
+C:\Projetos\BEE1036\BEE1036\bin\Debug\net7.0\BEE1036.runtimeconfig.json
+C:\Projetos\BEE1036\BEE1036\bin\Debug\net7.0\BEE1036.dll
+C:\Projetos\BEE1036\BEE1036\bin\Debug\net7.0\BEE1036.pdb
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.csproj.AssemblyReference.cache
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.AssemblyInfoInputs.cache
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.AssemblyInfo.cs
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.csproj.CoreCompileInputs.cache
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.dll
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\refint\BEE1036.dll
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.pdb
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\BEE1036.genruntimeconfig.cache
+C:\Projetos\BEE1036\BEE1036\obj\Debug\net7.0\ref\BEE1036.dll

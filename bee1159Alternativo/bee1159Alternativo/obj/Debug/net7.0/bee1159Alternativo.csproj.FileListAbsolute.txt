@@ -1,0 +1,15 @@
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\bin\Debug\net7.0\bee1159Alternativo.exe
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\bin\Debug\net7.0\bee1159Alternativo.deps.json
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\bin\Debug\net7.0\bee1159Alternativo.runtimeconfig.json
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\bin\Debug\net7.0\bee1159Alternativo.dll
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\bin\Debug\net7.0\bee1159Alternativo.pdb
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.csproj.AssemblyReference.cache
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.AssemblyInfoInputs.cache
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.AssemblyInfo.cs
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.csproj.CoreCompileInputs.cache
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.dll
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\refint\bee1159Alternativo.dll
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.pdb
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\bee1159Alternativo.genruntimeconfig.cache
+C:\Projetos\bee1159Alternativo\bee1159Alternativo\obj\Debug\net7.0\ref\bee1159Alternativo.dll

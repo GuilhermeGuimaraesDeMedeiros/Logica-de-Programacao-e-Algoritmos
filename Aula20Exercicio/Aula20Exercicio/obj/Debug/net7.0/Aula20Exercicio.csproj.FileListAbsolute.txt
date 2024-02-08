@@ -1,0 +1,15 @@
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\bin\Debug\net7.0\Aula20Exercicio.exe
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\bin\Debug\net7.0\Aula20Exercicio.deps.json
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\bin\Debug\net7.0\Aula20Exercicio.runtimeconfig.json
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\bin\Debug\net7.0\Aula20Exercicio.dll
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\bin\Debug\net7.0\Aula20Exercicio.pdb
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.csproj.AssemblyReference.cache
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.AssemblyInfoInputs.cache
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.AssemblyInfo.cs
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.dll
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\refint\Aula20Exercicio.dll
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.pdb
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\Aula20Exercicio.genruntimeconfig.cache
+C:\Projetos\Aula20Exercicio\Aula20Exercicio\obj\Debug\net7.0\ref\Aula20Exercicio.dll

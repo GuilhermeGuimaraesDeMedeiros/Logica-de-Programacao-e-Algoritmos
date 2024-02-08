@@ -1,0 +1,15 @@
+C:\Projetos\ExercicoAula24\ExercicoAula24\bin\Debug\net7.0\ExercicoAula24.exe
+C:\Projetos\ExercicoAula24\ExercicoAula24\bin\Debug\net7.0\ExercicoAula24.deps.json
+C:\Projetos\ExercicoAula24\ExercicoAula24\bin\Debug\net7.0\ExercicoAula24.runtimeconfig.json
+C:\Projetos\ExercicoAula24\ExercicoAula24\bin\Debug\net7.0\ExercicoAula24.dll
+C:\Projetos\ExercicoAula24\ExercicoAula24\bin\Debug\net7.0\ExercicoAula24.pdb
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.csproj.AssemblyReference.cache
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.AssemblyInfoInputs.cache
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.AssemblyInfo.cs
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.csproj.CoreCompileInputs.cache
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.dll
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\refint\ExercicoAula24.dll
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.pdb
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ExercicoAula24.genruntimeconfig.cache
+C:\Projetos\ExercicoAula24\ExercicoAula24\obj\Debug\net7.0\ref\ExercicoAula24.dll

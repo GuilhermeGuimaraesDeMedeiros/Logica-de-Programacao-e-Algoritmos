@@ -1,0 +1,15 @@
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.csproj.AssemblyReference.cache
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.AssemblyInfoInputs.cache
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.AssemblyInfo.cs
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.csproj.CoreCompileInputs.cache
+C:\Projetos\aula51\aula51\bin\Debug\net7.0\aula51.exe
+C:\Projetos\aula51\aula51\bin\Debug\net7.0\aula51.deps.json
+C:\Projetos\aula51\aula51\bin\Debug\net7.0\aula51.runtimeconfig.json
+C:\Projetos\aula51\aula51\bin\Debug\net7.0\aula51.dll
+C:\Projetos\aula51\aula51\bin\Debug\net7.0\aula51.pdb
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.dll
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\refint\aula51.dll
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.pdb
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\aula51.genruntimeconfig.cache
+C:\Projetos\aula51\aula51\obj\Debug\net7.0\ref\aula51.dll

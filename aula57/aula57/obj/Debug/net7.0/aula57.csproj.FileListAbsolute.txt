@@ -1,0 +1,15 @@
+C:\Projetos\aula57\aula57\bin\Debug\net7.0\aula57.exe
+C:\Projetos\aula57\aula57\bin\Debug\net7.0\aula57.deps.json
+C:\Projetos\aula57\aula57\bin\Debug\net7.0\aula57.runtimeconfig.json
+C:\Projetos\aula57\aula57\bin\Debug\net7.0\aula57.dll
+C:\Projetos\aula57\aula57\bin\Debug\net7.0\aula57.pdb
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.csproj.AssemblyReference.cache
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.AssemblyInfoInputs.cache
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.AssemblyInfo.cs
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.csproj.CoreCompileInputs.cache
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.dll
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\refint\aula57.dll
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.pdb
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\aula57.genruntimeconfig.cache
+C:\Projetos\aula57\aula57\obj\Debug\net7.0\ref\aula57.dll

@@ -1,0 +1,15 @@
+C:\Projetos\vetoresExerc09\vetoresExerc09\bin\Debug\net7.0\vetoresExerc09.exe
+C:\Projetos\vetoresExerc09\vetoresExerc09\bin\Debug\net7.0\vetoresExerc09.deps.json
+C:\Projetos\vetoresExerc09\vetoresExerc09\bin\Debug\net7.0\vetoresExerc09.runtimeconfig.json
+C:\Projetos\vetoresExerc09\vetoresExerc09\bin\Debug\net7.0\vetoresExerc09.dll
+C:\Projetos\vetoresExerc09\vetoresExerc09\bin\Debug\net7.0\vetoresExerc09.pdb
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.csproj.AssemblyReference.cache
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.AssemblyInfoInputs.cache
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.AssemblyInfo.cs
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.csproj.CoreCompileInputs.cache
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.dll
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\refint\vetoresExerc09.dll
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.pdb
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\vetoresExerc09.genruntimeconfig.cache
+C:\Projetos\vetoresExerc09\vetoresExerc09\obj\Debug\net7.0\ref\vetoresExerc09.dll

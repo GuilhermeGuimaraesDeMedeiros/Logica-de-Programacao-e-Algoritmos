@@ -1,0 +1,15 @@
+C:\Projetos\BEE1018\BEE1018\bin\Debug\net7.0\BEE1018.exe
+C:\Projetos\BEE1018\BEE1018\bin\Debug\net7.0\BEE1018.deps.json
+C:\Projetos\BEE1018\BEE1018\bin\Debug\net7.0\BEE1018.runtimeconfig.json
+C:\Projetos\BEE1018\BEE1018\bin\Debug\net7.0\BEE1018.dll
+C:\Projetos\BEE1018\BEE1018\bin\Debug\net7.0\BEE1018.pdb
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.csproj.AssemblyReference.cache
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.AssemblyInfoInputs.cache
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.AssemblyInfo.cs
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.csproj.CoreCompileInputs.cache
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.dll
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\refint\BEE1018.dll
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.pdb
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\BEE1018.genruntimeconfig.cache
+C:\Projetos\BEE1018\BEE1018\obj\Debug\net7.0\ref\BEE1018.dll

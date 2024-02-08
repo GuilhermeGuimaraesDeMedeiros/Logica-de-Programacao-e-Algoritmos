@@ -1,0 +1,15 @@
+C:\Projetos\vetoresExerc08\vetoresExerc08\bin\Debug\net7.0\vetoresExerc08.exe
+C:\Projetos\vetoresExerc08\vetoresExerc08\bin\Debug\net7.0\vetoresExerc08.deps.json
+C:\Projetos\vetoresExerc08\vetoresExerc08\bin\Debug\net7.0\vetoresExerc08.runtimeconfig.json
+C:\Projetos\vetoresExerc08\vetoresExerc08\bin\Debug\net7.0\vetoresExerc08.dll
+C:\Projetos\vetoresExerc08\vetoresExerc08\bin\Debug\net7.0\vetoresExerc08.pdb
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.csproj.AssemblyReference.cache
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.AssemblyInfoInputs.cache
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.AssemblyInfo.cs
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.csproj.CoreCompileInputs.cache
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.dll
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\refint\vetoresExerc08.dll
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.pdb
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\vetoresExerc08.genruntimeconfig.cache
+C:\Projetos\vetoresExerc08\vetoresExerc08\obj\Debug\net7.0\ref\vetoresExerc08.dll

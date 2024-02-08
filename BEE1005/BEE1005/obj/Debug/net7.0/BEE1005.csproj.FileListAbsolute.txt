@@ -1,0 +1,15 @@
+C:\Projetos\BEE1005\BEE1005\bin\Debug\net7.0\BEE1005.exe
+C:\Projetos\BEE1005\BEE1005\bin\Debug\net7.0\BEE1005.deps.json
+C:\Projetos\BEE1005\BEE1005\bin\Debug\net7.0\BEE1005.runtimeconfig.json
+C:\Projetos\BEE1005\BEE1005\bin\Debug\net7.0\BEE1005.dll
+C:\Projetos\BEE1005\BEE1005\bin\Debug\net7.0\BEE1005.pdb
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.csproj.AssemblyReference.cache
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.AssemblyInfoInputs.cache
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.AssemblyInfo.cs
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.csproj.CoreCompileInputs.cache
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.dll
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\refint\BEE1005.dll
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.pdb
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\BEE1005.genruntimeconfig.cache
+C:\Projetos\BEE1005\BEE1005\obj\Debug\net7.0\ref\BEE1005.dll

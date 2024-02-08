@@ -1,0 +1,15 @@
+C:\Projetos\Aula43\Aula43\bin\Debug\net7.0\Aula43.exe
+C:\Projetos\Aula43\Aula43\bin\Debug\net7.0\Aula43.deps.json
+C:\Projetos\Aula43\Aula43\bin\Debug\net7.0\Aula43.runtimeconfig.json
+C:\Projetos\Aula43\Aula43\bin\Debug\net7.0\Aula43.dll
+C:\Projetos\Aula43\Aula43\bin\Debug\net7.0\Aula43.pdb
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.csproj.AssemblyReference.cache
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.AssemblyInfoInputs.cache
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.AssemblyInfo.cs
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.csproj.CoreCompileInputs.cache
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.dll
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\refint\Aula43.dll
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.pdb
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\Aula43.genruntimeconfig.cache
+C:\Projetos\Aula43\Aula43\obj\Debug\net7.0\ref\Aula43.dll

@@ -1,0 +1,15 @@
+C:\Projetos\ExercicioAula25\ExercicioAula25\bin\Debug\net7.0\ExercicioAula25.exe
+C:\Projetos\ExercicioAula25\ExercicioAula25\bin\Debug\net7.0\ExercicioAula25.deps.json
+C:\Projetos\ExercicioAula25\ExercicioAula25\bin\Debug\net7.0\ExercicioAula25.runtimeconfig.json
+C:\Projetos\ExercicioAula25\ExercicioAula25\bin\Debug\net7.0\ExercicioAula25.dll
+C:\Projetos\ExercicioAula25\ExercicioAula25\bin\Debug\net7.0\ExercicioAula25.pdb
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.csproj.AssemblyReference.cache
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.AssemblyInfoInputs.cache
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.AssemblyInfo.cs
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.csproj.CoreCompileInputs.cache
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.dll
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\refint\ExercicioAula25.dll
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.pdb
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ExercicioAula25.genruntimeconfig.cache
+C:\Projetos\ExercicioAula25\ExercicioAula25\obj\Debug\net7.0\ref\ExercicioAula25.dll

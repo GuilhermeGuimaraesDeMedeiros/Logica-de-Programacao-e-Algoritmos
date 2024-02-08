@@ -1,0 +1,15 @@
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.csproj.AssemblyReference.cache
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.AssemblyInfoInputs.cache
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.AssemblyInfo.cs
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.csproj.CoreCompileInputs.cache
+C:\Projetos\aula61exerc01\aula61exerc01\bin\Debug\net7.0\aula61exerc01.exe
+C:\Projetos\aula61exerc01\aula61exerc01\bin\Debug\net7.0\aula61exerc01.deps.json
+C:\Projetos\aula61exerc01\aula61exerc01\bin\Debug\net7.0\aula61exerc01.runtimeconfig.json
+C:\Projetos\aula61exerc01\aula61exerc01\bin\Debug\net7.0\aula61exerc01.dll
+C:\Projetos\aula61exerc01\aula61exerc01\bin\Debug\net7.0\aula61exerc01.pdb
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.dll
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\refint\aula61exerc01.dll
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.pdb
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\aula61exerc01.genruntimeconfig.cache
+C:\Projetos\aula61exerc01\aula61exerc01\obj\Debug\net7.0\ref\aula61exerc01.dll

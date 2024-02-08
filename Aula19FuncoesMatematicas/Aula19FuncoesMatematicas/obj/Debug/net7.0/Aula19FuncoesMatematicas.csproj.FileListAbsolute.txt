@@ -1,0 +1,15 @@
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\bin\Debug\net7.0\Aula19FuncoesMatematicas.exe
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\bin\Debug\net7.0\Aula19FuncoesMatematicas.deps.json
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\bin\Debug\net7.0\Aula19FuncoesMatematicas.runtimeconfig.json
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\bin\Debug\net7.0\Aula19FuncoesMatematicas.dll
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\bin\Debug\net7.0\Aula19FuncoesMatematicas.pdb
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.csproj.AssemblyReference.cache
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.AssemblyInfoInputs.cache
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.AssemblyInfo.cs
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.dll
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\refint\Aula19FuncoesMatematicas.dll
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.pdb
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\Aula19FuncoesMatematicas.genruntimeconfig.cache
+C:\Projetos\Aula19FuncoesMatematicas\Aula19FuncoesMatematicas\obj\Debug\net7.0\ref\Aula19FuncoesMatematicas.dll

@@ -1,0 +1,15 @@
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\bin\Debug\net7.0\bee1051Alternativo.exe
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\bin\Debug\net7.0\bee1051Alternativo.deps.json
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\bin\Debug\net7.0\bee1051Alternativo.runtimeconfig.json
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\bin\Debug\net7.0\bee1051Alternativo.dll
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\bin\Debug\net7.0\bee1051Alternativo.pdb
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.csproj.AssemblyReference.cache
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.AssemblyInfoInputs.cache
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.AssemblyInfo.cs
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.csproj.CoreCompileInputs.cache
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.dll
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\refint\bee1051Alternativo.dll
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.pdb
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\bee1051Alternativo.genruntimeconfig.cache
+C:\Projetos\bee1051Alternativo\bee1051Alternativo\obj\Debug\net7.0\ref\bee1051Alternativo.dll

@@ -1,0 +1,15 @@
+C:\Projetos\ProjetoAula18\ProjetoAula18\bin\Debug\net7.0\ProjetoAula18.exe
+C:\Projetos\ProjetoAula18\ProjetoAula18\bin\Debug\net7.0\ProjetoAula18.deps.json
+C:\Projetos\ProjetoAula18\ProjetoAula18\bin\Debug\net7.0\ProjetoAula18.runtimeconfig.json
+C:\Projetos\ProjetoAula18\ProjetoAula18\bin\Debug\net7.0\ProjetoAula18.dll
+C:\Projetos\ProjetoAula18\ProjetoAula18\bin\Debug\net7.0\ProjetoAula18.pdb
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.csproj.AssemblyReference.cache
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.AssemblyInfo.cs
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.dll
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\refint\ProjetoAula18.dll
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.pdb
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ProjetoAula18.genruntimeconfig.cache
+C:\Projetos\ProjetoAula18\ProjetoAula18\obj\Debug\net7.0\ref\ProjetoAula18.dll

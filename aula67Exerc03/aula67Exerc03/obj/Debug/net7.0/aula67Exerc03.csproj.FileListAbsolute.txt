@@ -1,0 +1,15 @@
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.csproj.AssemblyReference.cache
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.AssemblyInfoInputs.cache
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.AssemblyInfo.cs
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.csproj.CoreCompileInputs.cache
+C:\Projetos\aula67Exerc03\aula67Exerc03\bin\Debug\net7.0\aula67Exerc03.exe
+C:\Projetos\aula67Exerc03\aula67Exerc03\bin\Debug\net7.0\aula67Exerc03.deps.json
+C:\Projetos\aula67Exerc03\aula67Exerc03\bin\Debug\net7.0\aula67Exerc03.runtimeconfig.json
+C:\Projetos\aula67Exerc03\aula67Exerc03\bin\Debug\net7.0\aula67Exerc03.dll
+C:\Projetos\aula67Exerc03\aula67Exerc03\bin\Debug\net7.0\aula67Exerc03.pdb
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.dll
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\refint\aula67Exerc03.dll
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.pdb
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\aula67Exerc03.genruntimeconfig.cache
+C:\Projetos\aula67Exerc03\aula67Exerc03\obj\Debug\net7.0\ref\aula67Exerc03.dll

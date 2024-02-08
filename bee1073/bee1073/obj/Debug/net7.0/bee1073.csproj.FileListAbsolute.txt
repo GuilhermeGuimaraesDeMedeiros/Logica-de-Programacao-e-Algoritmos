@@ -1,0 +1,15 @@
+C:\Projetos\bee1073\bee1073\bin\Debug\net7.0\bee1073.exe
+C:\Projetos\bee1073\bee1073\bin\Debug\net7.0\bee1073.deps.json
+C:\Projetos\bee1073\bee1073\bin\Debug\net7.0\bee1073.runtimeconfig.json
+C:\Projetos\bee1073\bee1073\bin\Debug\net7.0\bee1073.dll
+C:\Projetos\bee1073\bee1073\bin\Debug\net7.0\bee1073.pdb
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.csproj.AssemblyReference.cache
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.AssemblyInfoInputs.cache
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.AssemblyInfo.cs
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.csproj.CoreCompileInputs.cache
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.dll
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\refint\bee1073.dll
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.pdb
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\bee1073.genruntimeconfig.cache
+C:\Projetos\bee1073\bee1073\obj\Debug\net7.0\ref\bee1073.dll

@@ -1,0 +1,15 @@
+C:\Projetos\bee1072\bee1072\bin\Debug\net7.0\bee1072.exe
+C:\Projetos\bee1072\bee1072\bin\Debug\net7.0\bee1072.deps.json
+C:\Projetos\bee1072\bee1072\bin\Debug\net7.0\bee1072.runtimeconfig.json
+C:\Projetos\bee1072\bee1072\bin\Debug\net7.0\bee1072.dll
+C:\Projetos\bee1072\bee1072\bin\Debug\net7.0\bee1072.pdb
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.csproj.AssemblyReference.cache
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.AssemblyInfoInputs.cache
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.AssemblyInfo.cs
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.csproj.CoreCompileInputs.cache
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.dll
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\refint\bee1072.dll
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.pdb
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\bee1072.genruntimeconfig.cache
+C:\Projetos\bee1072\bee1072\obj\Debug\net7.0\ref\bee1072.dll

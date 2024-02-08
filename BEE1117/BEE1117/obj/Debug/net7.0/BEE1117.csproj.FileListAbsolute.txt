@@ -1,0 +1,15 @@
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.csproj.AssemblyReference.cache
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.AssemblyInfoInputs.cache
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.AssemblyInfo.cs
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.csproj.CoreCompileInputs.cache
+C:\Projetos\BEE1117\BEE1117\bin\Debug\net7.0\BEE1117.exe
+C:\Projetos\BEE1117\BEE1117\bin\Debug\net7.0\BEE1117.deps.json
+C:\Projetos\BEE1117\BEE1117\bin\Debug\net7.0\BEE1117.runtimeconfig.json
+C:\Projetos\BEE1117\BEE1117\bin\Debug\net7.0\BEE1117.dll
+C:\Projetos\BEE1117\BEE1117\bin\Debug\net7.0\BEE1117.pdb
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.dll
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\refint\BEE1117.dll
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.pdb
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\BEE1117.genruntimeconfig.cache
+C:\Projetos\BEE1117\BEE1117\obj\Debug\net7.0\ref\BEE1117.dll
